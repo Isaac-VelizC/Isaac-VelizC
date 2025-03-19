@@ -1,11 +1,11 @@
-<p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm AIsakVeliz</p>
+<p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Isaac Veliz</p>
 
 <p align="center">
 <img width="120" src="https://github.com/Isaac-VelizC/Isaac-VelizC/blob/main/AIsakVeliz.svg">
 </p>
 
 <p align="center"> 
-I'm AIsakVeliz, a dedicated system engineer who turns ideas into reality through code. What began as a simple hobby has evolved into a full-time passion. I thrive on pushing boundaries, whether it's contributing to open source, building new projects, or collaborating with others. Let's create something amazing together!
+I'm Isaac Veliz, a dedicated system engineer who turns ideas into reality through code. What began as a simple hobby has evolved into a full-time passion. I thrive on pushing boundaries, whether it's contributing to open source, building new projects, or collaborating with others. Let's create something amazing together!
 </p>
 
 <br/>
@@ -44,7 +44,7 @@ I'm AIsakVeliz, a dedicated system engineer who turns ideas into reality through
 ### Front End Framework:
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+<!--[Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)-->
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
@@ -57,7 +57,7 @@ I'm AIsakVeliz, a dedicated system engineer who turns ideas into reality through
 
 ### Tools:
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ### Github Contributions:
 
 <h4 align="center">Watch my contribution graph get eaten by the snake 🐍</h4>
