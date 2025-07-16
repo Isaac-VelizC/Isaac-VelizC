@@ -5,7 +5,7 @@
 </p>
 
 <p align="center"> 
-Soy ingeniero en sistemas con más de dos años de experiencia en desarrollo web y móvil, especializado en Python, PHP y JavaScript, usando frameworks como Laravel, Django, Flutter y React. Me apasiona crear aplicaciones eficientes y centradas en el usuario.
+Soy ingeniero en sistemas con más de dos años de experiencia en desarrollo web y móvil. He desarrollado proyectos utilizando frameworks como Laravel, Flutter, Django y React. Me apasiona crear aplicaciones eficientes, escalables y centradas en el usuario.
 </p>
 
 <br/>
@@ -42,16 +42,16 @@ Soy ingeniero en sistemas con más de dos años de experiencia en desarrollo web
 ### Front End Framework:
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-<!--[Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)-->
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<!--[Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)-->
 
 ### Backend:
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-<!--![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)-->
 ![Sqlite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+<!--![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)-->
 
 ### Tools:
 
