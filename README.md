@@ -5,7 +5,7 @@
 </p>
 
 <p align="center"> 
-Soy ingeniero en sistemas con más de dos años de experiencia desarrollando soluciones tecnológicas robustas y escalables. He trabajado en diseño de sistemas, desarrollo web y móvil, y gestión de bases de datos. Me especializo en Python, PHP y JavaScript, utilizando frameworks como Laravel, Django, Flutter y React. Me motiva transformar ideas complejas en aplicaciones funcionales, eficientes y centradas en el usuario.
+Soy ingeniero en sistemas con más de dos años de experiencia en desarrollo web y móvil, especializado en Python, PHP y JavaScript, usando frameworks como Laravel, Django, Flutter y React. Me apasiona crear aplicaciones eficientes y centradas en el usuario.
 </p>
 
 <br/>
@@ -50,14 +50,12 @@ Soy ingeniero en sistemas con más de dos años de experiencia desarrollando sol
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+<!--![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)-->
 ![Sqlite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Tools:
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ### Github Contributions:
-
-<h4 align="center">Watch my contribution graph get eaten by the snake 🐍</h4>
 
 <p align="center"> <img  width="900em" alt="vikash2806's Github comitte snake"  src="https://github.com/VikashPR/VikashPR/blob/output/github-contribution-grid-snake-dark.svg" /> </p>
