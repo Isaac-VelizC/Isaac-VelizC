@@ -12,15 +12,15 @@ Soy ingeniero en sistemas con más de dos años de experiencia en desarrollo web
 	  
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-☞ 〔 ⚪️ 〕🎀 Code is Art 🎨 | 🌹 Passion Drives Progress
+☞ 〔 ⚪️ 〕🎀 El código es arte 🎨 | 🌹 La pasión impulsa el progreso
 
 <!--☞ 〔  〕 <a href="https://www.sc.com/en/">![Software Engineer](https://img.shields.io/badge/Software%20Engineer-Standard%20Charted-brightgreen)</a> | Available for New Opportunities-->
 
-☞ 〔 🤾 〕Based in Potosí | Coffee-powered coder ☕
+☞ 〔 🤾 〕De Potosí | Programador que vive del café ☕
 
 ☞ 〔 👀 〕[Portfolio](https://aisakveliz.netlify.app/) | [LinkedIn](#)
 
-☞ 〔 🐼 〕Specialized in React, Laravel and Flutter
+☞ 〔 🐼 〕Con experiencia en Laravel, React, Flutter y Django
 
 <br>
 
