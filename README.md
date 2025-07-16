@@ -1,11 +1,11 @@
-<p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Isaac Veliz</p>
+<p align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, soy Isaac Veliz</p>
 
 <p align="center">
-<img width="120" src="https://github.com/Isaac-VelizC/Isaac-VelizC/blob/main/AIsakVeliz.svg">
+<img width="120" src="https://github.com/Isaac-VelizC/Isaac-VelizC/blob/main/AIsakVeliz.svg" alt="AisakVeliz">
 </p>
 
 <p align="center"> 
-I'm Isaac Veliz, a dedicated system engineer who turns ideas into reality through code. What began as a simple hobby has evolved into a full-time passion. I thrive on pushing boundaries, whether it's contributing to open source, building new projects, or collaborating with others. Let's create something amazing together!
+Soy ingeniero en sistemas con más de dos años de experiencia desarrollando soluciones tecnológicas robustas y escalables. He trabajado en diseño de sistemas, desarrollo web y móvil, y gestión de bases de datos. Me especializo en Python, PHP y JavaScript, utilizando frameworks como Laravel, Django, Flutter y React. Me motiva transformar ideas complejas en aplicaciones funcionales, eficientes y centradas en el usuario.
 </p>
 
 <br/>
